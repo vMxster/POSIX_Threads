@@ -6,9 +6,7 @@ This repository serves as a comprehensive resource for learning about POSIX thre
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Examples](#examples)
 - [Exercises](#exercises)
-- [Projects](#projects)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,17 +24,9 @@ git clone https://github.com/vMxster/POSIX_Threads_UNI.git
 
 Then, navigate to the cloned directory and explore the various examples, exercises, and projects provided.
 
-## Examples
-
-The `examples` directory contains a collection of simple examples that demonstrate how to create, manage, and synchronize POSIX threads in C. These examples cover topics such as thread creation, mutual exclusion, condition variables, and thread cancellation.
-
 ## Exercises
 
-The `exercises` directory contains a set of exercises designed to reinforce your understanding of POSIX threads concepts. These exercises range from basic to advanced and cover various aspects of multithreading, including synchronization, communication, and thread safety.
-
-## Projects
-
-In the `projects` directory, you'll find complete multithreading projects that apply the concepts learned from the examples and exercises. These projects provide practical experience in developing multithreaded applications using POSIX threads.
+This directory contains a set of exercises designed to reinforce your understanding of POSIX threads concepts. These exercises range from basic to advanced and cover various aspects of multithreading, including synchronization, communication, and thread safety.
 
 ## Contributing
 
